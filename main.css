@@ -1,0 +1,50 @@
+
+
+
+.jumbotron {
+    letter-spacing: 2px; 
+    padding: 100px 25px; 
+}
+
+
+h1, h2 {
+    font-family: 'Wire One', sans-serif;
+    font-size: 54px; 
+    color: black
+}
+
+.navbar {
+  border: 0;
+  border-radius: 0;
+  margin-bottom: 0;
+  font-size: 34px;
+    font-family: 'Wire One', sans-serif;
+    color: black; 
+  letter-spacing: 2px;
+}
+
+
+
+.bg-1{
+    background-color: white; /* white */ 
+}
+.bg-2{
+    background-color: white; /* gul */   
+}
+.bg-3{
+    
+    background-color: #D3E3EA; /* lyseblå */
+    
+}
+.bg-4{
+    background-color: lightcoral;/* korallfarge */
+    
+}
+.container-fluid{
+    padding-top: 60px; 
+    padding-bottom 50px;      
+}
+.row
+{
+    height; 300px
+}
